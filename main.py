@@ -4,6 +4,9 @@
 # there is no more input left for lexical analysis
 
 from interpreter import Interpreter
+
+
+
 def main():
     while True:
         try:
